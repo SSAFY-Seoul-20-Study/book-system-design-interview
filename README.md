@@ -63,7 +63,7 @@
 
 | 챕터                                        | 발표 자료 | 질문 |
 | ------------------------------------------- | :-------- | :--- |
-| 1장. 사용자 수에 따른 규모 확장성           |           |      |
+| 1장. 사용자 수에 따른 규모 확장성           |[김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-1%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A7%80%ED%98%84.md) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-2%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A4%80%EC%97%BDmd.md) / [최세은](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-3%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EC%B5%9C%EC%84%B8%EC%9D%80.md) |[남수진](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/5) / [이성호](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/6)|
 | 2장. 개략적인 규모 추정                     |           |      |
 | 3장. 시스템 설계 면접 공략법                |           |      |
 | 4장. 처리율 제한 장치의 설계                |           |      |
