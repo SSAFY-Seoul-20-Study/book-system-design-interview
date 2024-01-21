@@ -58,26 +58,17 @@
 
 <br><br>
 
+## 💯 주간 로그
+  
+| 주차 |    날짜   |                         챕터                     |  발표 자료 | 질문 | 
+| :- | :-------- | :-------------------------------------------------- |:-------- | :---|
+| Week01 | 2024-01-08 | [1장] 사용자 수에 따른 규모 확장성 |[김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-1%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A7%80%ED%98%84.md) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-2%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A4%80%EC%97%BDmd.md) / [최세은](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-3%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EC%B5%9C%EC%84%B8%EC%9D%80.md) |[남수진](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/5) / [이성호](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/6) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/1)|
+|Week02| 2024-01-15| [2장] 개략적인 규모 추정 <br> [3장] 시스템 설계 면접 공략법 <br> [4장] 처리율 제한 장치의 설계 | [최세은](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/02%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_2%EC%9E%A5_%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8%20%EA%B7%9C%EB%AA%A8%20%EC%B6%94%EC%A0%95_%EC%B5%9C%EC%84%B8%EC%9D%80.md)  <br> - <br> [남수진](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/04%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_4-1%EC%9E%A5_%EC%B2%98%EB%A6%AC%EC%9C%A8%20%EC%A0%9C%ED%95%9C%20%EC%9E%A5%EC%B9%98%EC%9D%98%20%EC%84%A4%EA%B3%84_%EB%82%A8%EC%88%98%EC%A7%84.md) / [이성호](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/04%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_4-2%EC%9E%A5_%EC%B2%98%EB%A6%AC%EC%9C%A8%20%EC%A0%9C%ED%95%9C%20%EC%9E%A5%EC%B9%98%EC%9D%98%20%EC%84%A4%EA%B3%84_%EC%9D%B4%EC%84%B1%ED%98%B8.md) |   [하동준](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/9) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/7) / [김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/11#issue-2080690818)  |
+|Week03| 2024-01-22| [5장] 안정 해시 설계 <br> [6장] 키-값 저장소 설계 | | |
 
-## 📕 발표 자료
 
-| 챕터                                        | 발표 자료 | 질문 |
-| ------------------------------------------- | :--------: | :---:|
-| 1장. 사용자 수에 따른 규모 확장성           |[김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-1%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A7%80%ED%98%84.md) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-2%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EA%B9%80%EC%A4%80%EC%97%BDmd.md) / [최세은](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/01%EC%9E%A5/%5B1%EC%A3%BC%EC%B0%A8%5D_1-3%EC%9E%A5_%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1_%EC%B5%9C%EC%84%B8%EC%9D%80.md) |[남수진](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/5) / [이성호](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/6) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/1)|
-| 2장. 개략적인 규모 추정                     |[최세은](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/02%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_2%EC%9E%A5_%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8%20%EA%B7%9C%EB%AA%A8%20%EC%B6%94%EC%A0%95_%EC%B5%9C%EC%84%B8%EC%9D%80.md)         |[하동준](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/9) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/7) / [김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/11#issue-2080690818)  |
-| 3장. 시스템 설계 면접 공략법                |     -    |   -   |
-| 4장. 처리율 제한 장치의 설계                | [남수진](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/04%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_4-1%EC%9E%A5_%EC%B2%98%EB%A6%AC%EC%9C%A8%20%EC%A0%9C%ED%95%9C%20%EC%9E%A5%EC%B9%98%EC%9D%98%20%EC%84%A4%EA%B3%84_%EB%82%A8%EC%88%98%EC%A7%84.md) / [이성호](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/blob/main/04%EC%9E%A5/%5B2%EC%A3%BC%EC%B0%A8%5D_4-2%EC%9E%A5_%EC%B2%98%EB%A6%AC%EC%9C%A8%20%EC%A0%9C%ED%95%9C%20%EC%9E%A5%EC%B9%98%EC%9D%98%20%EC%84%A4%EA%B3%84_%EC%9D%B4%EC%84%B1%ED%98%B8.md)          |   [하동준](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/9) / [김준엽](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/7) / [김지현](https://github.com/SSAFY-Seoul-20-Study/book-system-design-interview/issues/11#issue-2080690818)  |
-| 5장. 안정 해시 설계                         |           |      |
-| 6장. 키-값 저장소 설계                      |           |      |
-| 7장. 분산 시스템을 위한 유일 ID 생성기 설계 |           |      |
-| 8장. URL 단축기 설계                        |           |      |
-| 9장. 웹 크롤러 설계                         |           |      |
-| 10장. 알림 시스템 설계                      |           |      |
-| 11장. 뉴스 피드 시스템 설계                 |           |      |
-| 12장. 채팅 시스템 설계                      |           |      |
-| 13장. 검색어 자동완성 시스템                |           |      |
-| 14장. 유튜브 설계                           |           |      |
-| 15장. 구글 드라이브 설계                    |           |      |
+
+
 
 ## 기타
 
